@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ommaurya47&label=Profile%20views&color=0e75b6&style=flat" alt="ommaurya47" /> </p>
 
-- 🌱 I’m currently learning **Python, PowerBi, Excel,**
+- 🌱 I’m currently learning **Python, PowerBi, Excel**
 
 - 📫 How to reach me **mauryaom74@gmail.com**
 
